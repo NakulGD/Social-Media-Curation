@@ -6,6 +6,4 @@ We've used Twitter API to access and port content into your service and made our
 We have also incorporated basic cryptographic schemes to ensure a degree of security.
 
 Contributors:
-Anu Ponnusamy
-Felix Ma
-Nakul Dharan
+Anu Ponnusamy, Felix Ma, Nakul Dharan
