@@ -1,4 +1,4 @@
-# socialmediatwitter CPEN221 Class Project
+# Twitter Social Media Curation: CPEN221 Class Project
 
 This project is a messaging and content curation service for people to interact with content on Twitter.
 We have built a time-sensitive queuing data structure and used it to implement a publish-subscribe model for data sharing. 
